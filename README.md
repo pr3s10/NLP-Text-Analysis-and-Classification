@@ -19,7 +19,7 @@ This project was developed for a UCLA course and consists of three Jupyter noteb
 - Confusion matrices and classification metrics for evaluation
 
 ## Main Takeaway
-This project showed a clear comparison in how different text methods perform. The analysis initially found that article summaries captured topic structure more clearly than titles, producing cleaner separation between groups and more accurate similarity-based clustering. As the project moved into clustering and classification, dense sentence embeddings consistently performed better than TF-IDF, especially when the goal was to capture semantic meaning rather than just word frequency. Taken together, the results ultimately suggest that while TF-IDF is still useful for basic text representation, embedding-based methods gave stronger topic separation, higher classification accuracy, and a more reliable understanding of document meaning overall.
+This project showed a clear comparison in how different text methods perform. The analysis initially found that article summaries captured topic structure more clearly than titles, producing cleaner separation between groups and more accurate similarity-based clustering. As the project moved into clustering and classification, dense sentence embeddings consistently performed better than TF-IDF, especially when the goal was to capture semantic meaning rather than just word frequency. Ultimately, the results suggest that while TF-IDF is still useful for basic text representation, embedding-based methods gave stronger topic separation, higher classification accuracy, and a more reliable understanding of document meaning overall.
 
 ## Tools
 Python, Pandas, NumPy, scikit-learn, NLTK, sentence-transformers, Matplotlib, WordCloud, Requests
