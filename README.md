@@ -1,6 +1,6 @@
 # Wikipedia Text Analysis and Classification Project
 
-This project was developed for a UCLA course and consists of three Jupyter notebooks focused on natural language processing, text representation, clustering, and classification. I built a Wikipedia-based dataset using the Wikipedia API, cleaned article titles and summaries, and compared multiple methods for analyzing topic structure in text. The project also includes a provided UCLA dataset of news article titles and topics for additional clustering and classification tasks.
+This project consists of three Jupyter notebooks focused on natural language processing, text representation, clustering, and classification. I built a dataset using the Wikipedia API, cleaned article titles and summaries, and compared multiple methods for analyzing topic structure in text. The project also includes a provided UCLA dataset of news article titles and topics for additional clustering and classification tasks.
 
 ## Project Goals
 - Collect and organize text data from multiple topic areas
@@ -25,4 +25,4 @@ This project showed a clear comparison in how different text methods perform. Th
 Python, Pandas, NumPy, scikit-learn, NLTK, sentence-transformers, Matplotlib, WordCloud, Requests
 
 ## Notes
-This project was built as a text analysis and machine learning exercise centered on preprocessing text and comparing different ways to represent, group, and classify documents by topic.
+This project was developed for a UCLA course and was built as a text analysis and machine learning exercise centered on preprocessing text and comparing different ways to represent, group, and classify documents by topic.
